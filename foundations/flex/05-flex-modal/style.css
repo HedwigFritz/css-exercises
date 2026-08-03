@@ -67,7 +67,6 @@ button.continue {
   border: 1px solid royalblue;
   color: white;
   margin-left: 60px;
-  margin-bottom: 20px;
 }
 
 button.cancel {
@@ -82,7 +81,7 @@ button.cancel {
 }
 
 .header {
-  margin-right: 25px;
+  margin-right: 120px;
   margin-left: 25px;
 }
 
